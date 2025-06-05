@@ -82,6 +82,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-* **Jonatas bezerra da silva**
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://linkedin.com/in/jonatas-bezerra-83831a356]/)
-* *(jonatasnet-pe@hotmail.com)*
+* **Jonatas Bezerra da Silva**
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-bezerra-83831a356/)
+* (jonatasnet-pe@hotmail.com)
+
