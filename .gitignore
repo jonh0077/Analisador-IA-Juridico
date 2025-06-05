@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv_linux/
+venv_mac/
+venv_windows/
+*.env
+.vscode/
+
+# Logs e Dados Temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Arquivos de Dados
+*.csv
+*.json
+*.pickle
+*.hdf5
+*.bin
+*.model
+*.pt # PyTorch models
+*.h5 # Keras models
+/data/ # Se você tiver uma pasta 'data' para arquivos de dados locais
+
+# IDEs
+.idea/ # PyCharm
+.vscode/ # VS Code
+
+# Ambiente virtual Python
+.venv/
+
+# Jupyter Notebook (se você usar)
+.ipynb_checkpoints/
+
+# Arquivos de configurações sensíveis (se houver)
+config.ini
+.env
