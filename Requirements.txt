@@ -1,1 +1,26 @@
+# Bibliotecas principais de IA/PLN
+tensorflow>=2.0.0 # ou torch>=1.8.0 se preferir PyTorch
+transformers>=4.0.0
+spacy>=3.0.0
+nltk>=3.6.0
+scikit-learn>=1.0.0
 
+# Para processamento de documentos
+PyPDF2>=1.26.0
+python-docx>=0.8.0 # para .docx
+
+# Para a interface web (Streamlit)
+streamlit>=1.0.0
+
+# Opcionais (se você usar PostgreSQL/MongoDB/Elasticsearch no futuro)
+# psycopg2-binary>=2.9.0 # para PostgreSQL
+# pymongo>=3.12.0 # para MongoDB
+# elasticsearch>=7.15.0 # para Elasticsearch
+
+# Para visualização e manipulação de dados (úteis em quase todo projeto de ML)
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Ferramentas de desenvolvimento (para qualidade de código)
+# black>=21.10b0 # formatador de código
+# flake8>=4.0.0 # linter
